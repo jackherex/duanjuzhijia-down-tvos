@@ -1,14 +1,14 @@
 {
-  "version": "1.1.2+4",
-  "name": "duanjuzhijia-tvos-1.1.2+4-unsigned.ipa",
-  "size": 17212592,
-  "sha256": "d9e96abf149f0c5faab01345d3c3d102b1a0aff482c0cddfc100582e826fb9b6",
+  "version": "1.1.5+7",
+  "name": "duanjuzhijia-tvos-1.1.5+7-unsigned.ipa",
+  "size": 17231371,
+  "sha256": "3aa356c2628f5d21d66ec95cc1533855208f3f5faade30a99a137f330eb2806c",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.5-7/duanjuzhijia-tvos-1.1.5%2B7-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.5-7/duanjuzhijia-tvos-1.1.5%2B7-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.5-7/duanjuzhijia-tvos-1.1.5%2B7-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.5-7/duanjuzhijia-tvos-1.1.5%2B7-unsigned.ipa"
   ],
-  "notes": "改用与安卓电视版一样的界面，遥控操作一致；修复红果接口调整后播放不了；播放更快，下一集提前准备好；修复设置 WebDAV 后闪退、重新打开卡在「需要恢复本地配置」；修复退出 / 后台回来播放不了、海报没有封面、手机遥控连不上；设备互联可以用了；有新版本时提醒；弹幕铺满整个屏幕；播放设置新增「调试信息」"
+  "notes": "修复部分电视上界面只占屏幕左上角、没有铺满；焦点全面优化：上下左右按直觉移动，到边轻轻弹一下，按返回回到顶栏；降低遥控器触控板灵敏度，手指轻碰不再让焦点乱跳；修复一季看完自动切到下一季后黑屏、只有声音"
 }
