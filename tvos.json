@@ -10,5 +10,5 @@
     "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
     "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa"
   ],
-  "notes": "修复红果接口调整后播放不了；播放更快，下一集提前准备好；修复设置 WebDAV 后闪退、重新打开卡在「需要恢复本地配置」；修复退出再回来播放不了、退到后台回来下一集播不了；修复海报没有封面、手机遥控连不上；设备互联可以用了；弹幕铺满整个屏幕；播放设置新增「调试信息」开关"
+  "notes": "改用与安卓电视版一样的界面，遥控操作一致；修复红果接口调整后播放不了；播放更快，下一集提前准备好；修复设置 WebDAV 后闪退、重新打开卡在「需要恢复本地配置」；修复退出 / 后台回来播放不了、海报没有封面、手机遥控连不上；设备互联可以用了；有新版本时提醒；弹幕铺满整个屏幕；播放设置新增「调试信息」"
 }
