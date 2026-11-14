@@ -1,14 +1,14 @@
 {
-  "version": "1.1.1+3",
-  "name": "duanjuzhijia-tvos-1.1.1+3-unsigned.ipa",
-  "size": 17173750,
-  "sha256": "fd28d05a591d629c0a5e7b9ea0f7f1b23103d80264a38f36103dcd2810ce6290",
+  "version": "1.1.2+4",
+  "name": "duanjuzhijia-tvos-1.1.2+4-unsigned.ipa",
+  "size": 17212592,
+  "sha256": "d9e96abf149f0c5faab01345d3c3d102b1a0aff482c0cddfc100582e826fb9b6",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.1-3/duanjuzhijia-tvos-1.1.1%2B3-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.1-3/duanjuzhijia-tvos-1.1.1%2B3-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.1-3/duanjuzhijia-tvos-1.1.1%2B3-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.1-3/duanjuzhijia-tvos-1.1.1%2B3-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.2-4/duanjuzhijia-tvos-1.1.2%2B4-unsigned.ipa"
   ],
-  "notes": "紧急修复：红果接口调整后播放不了；另修海报无封面、手机遥控连不上；退出再回来能接着播"
+  "notes": "修复设置 WebDAV 后闪退、重新打开卡在「需要恢复本地配置」；退到后台再回来，能接着播下一集；设备互联可以用了；下一集预加载更稳；弹幕铺满整个屏幕；播放设置新增「调试信息」开关"
 }
