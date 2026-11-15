@@ -1,14 +1,14 @@
 {
-  "version": "1.1.14+16",
-  "name": "duanjuzhijia-tvos-1.1.14+16-unsigned.ipa",
-  "size": 19525909,
-  "sha256": "04629b937281af3f7646b9d8ae7f4f95c90ce6208f1d4831d33222c29ce3b5ca",
+  "version": "1.1.15+17",
+  "name": "duanjuzhijia-tvos-1.1.15+17-unsigned.ipa",
+  "size": 19556220,
+  "sha256": "9135bed3d3e2ca25beeff925edaffe01f09224031fdfdc7dfa368d90cd6019eb",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.14-16/duanjuzhijia-tvos-1.1.14%2B16-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.14-16/duanjuzhijia-tvos-1.1.14%2B16-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.14-16/duanjuzhijia-tvos-1.1.14%2B16-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.14-16/duanjuzhijia-tvos-1.1.14%2B16-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.15-17/duanjuzhijia-tvos-1.1.15%2B17-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.15-17/duanjuzhijia-tvos-1.1.15%2B17-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.15-17/duanjuzhijia-tvos-1.1.15%2B17-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.15-17/duanjuzhijia-tvos-1.1.15%2B17-unsigned.ipa"
   ],
-  "notes": "只有新编码（ByteVC2）的剧集现在也能播；详情页预加载（默认开）：点播放基本秒开，从中间续播也一样；遥控器从顶栏按下直接到第一张海报；新剧榜打开不用等，上新日历在海报上按左右就能换日期；首页每排最后加了「查看全部」；Apple TV 主屏幕选中短剧之家时显示品牌大图"
+  "notes": "右上角新增「红果账户」：红果的观看历史、收藏、预约都在这里，首页和追剧只放本机；红果观看历史按时间排好、显示看到第几集，点一下从上次的位置接着播；「新剧日历」「新剧推荐」各自一页，不登录也能看；左右换日期带动画；遥控器更顺手：海报往上能回到「继续观看」和筛选，焦点框不再被切掉；「继续观看」第一部默认自动预加载，标题旁的闪电显示准备进度"
 }
