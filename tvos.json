@@ -1,14 +1,14 @@
 {
-  "version": "1.1.16+18",
-  "name": "duanjuzhijia-tvos-1.1.16+18-unsigned.ipa",
-  "size": 19568175,
-  "sha256": "bf12b1d34d085edb5e7f8681be4cf00b48ac65326463f4c18f64385d02e97941",
+  "version": "1.1.17+19",
+  "name": "duanjuzhijia-tvos-1.1.17+19-unsigned.ipa",
+  "size": 19592329,
+  "sha256": "7357a45a83b9478856d48c6252feb0ed898bb798a18cabaa6e72b294b8c6ec14",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.16-18/duanjuzhijia-tvos-1.1.16%2B18-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.16-18/duanjuzhijia-tvos-1.1.16%2B18-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.16-18/duanjuzhijia-tvos-1.1.16%2B18-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.16-18/duanjuzhijia-tvos-1.1.16%2B18-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa"
   ],
-  "notes": "新增：内置遥控器键盘搜索，输入拼音首字母即出联想；新增：播放时左右键快进并显示进度条；可在播放设置开启「上下键切换上一集 / 下一集」；修复：自动切下一集偶尔卡在 0:00 不动，现在会自己重新加载；优化：设置页焦点更清楚（数值看得见、左侧移动右侧跟随、选中项带对勾），排行榜分类栏加大，弹幕字号上限提高"
+  "notes": "修复：红果短剧全部无法播放（能搜索、能进详情，一点播放就失败）的问题"
 }
