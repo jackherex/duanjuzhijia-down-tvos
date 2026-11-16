@@ -1,14 +1,14 @@
 {
-  "version": "1.1.17+19",
-  "name": "duanjuzhijia-tvos-1.1.17+19-unsigned.ipa",
-  "size": 19592329,
-  "sha256": "7357a45a83b9478856d48c6252feb0ed898bb798a18cabaa6e72b294b8c6ec14",
+  "version": "1.1.18+20",
+  "name": "duanjuzhijia-tvos-1.1.18+20-unsigned.ipa",
+  "size": 19593431,
+  "sha256": "dccc3427ad4fda41024c7b79b9a45fe5b24de8c4feb7b6fc78eac559e37ce7b5",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.17-19/duanjuzhijia-tvos-1.1.17%2B19-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.18-20/duanjuzhijia-tvos-1.1.18%2B20-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.18-20/duanjuzhijia-tvos-1.1.18%2B20-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.18-20/duanjuzhijia-tvos-1.1.18%2B20-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.18-20/duanjuzhijia-tvos-1.1.18%2B20-unsigned.ipa"
   ],
-  "notes": "修复：红果短剧全部无法播放（能搜索、能进详情，一点播放就失败）的问题"
+  "notes": "修复：新剧日历、找剧打不开（空白）的问题"
 }
