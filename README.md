@@ -8,13 +8,19 @@
 
 **🚧 Apple TV 版正在开发中，还没有可下载的版本。** 发布后会放在这里，届时下面的按钮直接可用：
 
-[**⬇ 下载 Apple TV 安装包**](https://github.com/jackherex/duanjuzhijia-down-tvos/releases/latest)　｜　[全部版本](https://github.com/jackherex/duanjuzhijia-down-tvos/releases)
+[**⬇ 下载 Apple TV 安装包**](https://github.com/jackherex/duanjuzhijia-down-tvos/releases/latest)　｜　[全部版本](https://github.com/jackherex/duanjuzhijia-down-tvos/releases)　｜　[❤️ 爱发电赞助支持](https://afdian.com/a/duanjuzhijia)
 
 在那之前，可以先用上面其他版本：手机、电脑、安卓电视 / 盒子都已经能用，并且互相同步收藏与观看进度。
 
 ## 使用反馈
 
 想要的功能或遇到的问题，请到 [反馈区](https://github.com/jackherex/duanjuzhijia-down-tvos/issues) 说明。
+
+## 赞助支持
+
+如果觉得软件好用，欢迎通过爱发电赞助支持项目持续维护与更新（自愿支持，不影响免费使用）：
+
+- 爱发电主页：[**https://afdian.com/a/duanjuzhijia**](https://afdian.com/a/duanjuzhijia)
 
 ## 关于本仓库
 
