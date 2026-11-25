@@ -1,14 +1,14 @@
 {
-  "version": "1.1.22+24",
-  "name": "duanjuzhijia-tvos-1.1.22+24-unsigned.ipa",
-  "size": 19974618,
-  "sha256": "3a001a338a3accb616615cf5beee1af41cf7df0604214da809263c73e550ea2e",
+  "version": "1.1.23+25",
+  "name": "duanjuzhijia-tvos-1.1.23+25-unsigned.ipa",
+  "size": 19981561,
+  "sha256": "d4e7962b65ececc400ea9f748f085df4715b88d8903a906ef6b68563fee153d8",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.23-25/duanjuzhijia-tvos-1.1.23%2B25-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.23-25/duanjuzhijia-tvos-1.1.23%2B25-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.23-25/duanjuzhijia-tvos-1.1.23%2B25-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.23-25/duanjuzhijia-tvos-1.1.23%2B25-unsigned.ipa"
   ],
-  "notes": "下载页升级为电视专属海报网格布局、优化自动连播切集流畅度、美化查全季并新增云预约入口"
+  "notes": "修复下载页本地视频无法播放问题，详情页已下载集数新增绿色勾选标记"
 }
