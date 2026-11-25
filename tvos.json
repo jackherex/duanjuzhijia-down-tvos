@@ -1,14 +1,14 @@
 {
-  "version": "1.1.21+23",
-  "name": "duanjuzhijia-tvos-1.1.21+23-unsigned.ipa",
-  "size": 19918715,
-  "sha256": "3e4b681c091282a47f3ab59fa0a6162cfbb98b9d2157c1932a0b4ee12c668f20",
+  "version": "1.1.22+24",
+  "name": "duanjuzhijia-tvos-1.1.22+24-unsigned.ipa",
+  "size": 19974618,
+  "sha256": "3a001a338a3accb616615cf5beee1af41cf7df0604214da809263c73e550ea2e",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.21-23/duanjuzhijia-tvos-1.1.21%2B23-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.21-23/duanjuzhijia-tvos-1.1.21%2B23-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.21-23/duanjuzhijia-tvos-1.1.21%2B23-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.21-23/duanjuzhijia-tvos-1.1.21%2B23-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.22-24/duanjuzhijia-tvos-1.1.22%2B24-unsigned.ipa"
   ],
-  "notes": "修复红果搜剧、小智 AI 原生 Siri 听写与语音播报，彻底解决输入框卡焦点"
+  "notes": "下载页升级为电视专属海报网格布局、优化自动连播切集流畅度、美化查全季并新增云预约入口"
 }
