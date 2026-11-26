@@ -1,0 +1,36 @@
+{
+  "version": "1.1.25+30",
+  "versionName": "1.1.25",
+  "build": 30,
+  "versionCode": 10125,
+  "beta": true,
+  "minVersion": "",
+  "force": false,
+  "publishedAt": "2026-11-26T14:21:59Z",
+  "notes": "- 修复：Apple TV 切换单实例原生 AVQueuePlayer 并打通整集缓存/已下载剧集入队，彻底消除自动连播下一集黑屏闪一下的问题\n- 新增：Apple TV 后台自动预下载后续 3 集（+1/+2/+3），切集与连播更流畅；片尾剩不足 25 秒若尚未缓存完自动切在线流兜底入队\n- 优化：本地文件与 127.0.0.1 本地代理自动关闭防卡顿等待，未加密本地文件直出 file://，进一步压缩切集声音停顿\n- 同步：红果三域名轮换与 V5 / ByteVC2 播放线路优化\n> 测试版，正式版用户不受影响\n",
+  "releaseUrl": "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/tag/tvos-v1.1.25-30-beta",
+  "gate": {
+    "salt": "djzj-2285498e2ed7",
+    "hash": "d4e4fdd5e2e353de5b7ec05e9a401b93a6a40d96556afea405d574c3a40758bf",
+    "iterations": 2000,
+    "group": "https://t.me/duanjuzhijia",
+    "hint": "4 位数字"
+  },
+  "assets": [
+    {
+      "edition": "duanjuzhijia-tvos",
+      "abi": "tvos",
+      "name": "duanjuzhijia-tvos-1.1.25+30-unsigned.ipa",
+      "url": "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.25-30-beta/duanjuzhijia-tvos-1.1.25%2B30-unsigned.ipa",
+      "urls": [
+        "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.25-30-beta/duanjuzhijia-tvos-1.1.25%2B30-unsigned.ipa",
+        "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.25-30-beta/duanjuzhijia-tvos-1.1.25%2B30-unsigned.ipa",
+        "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.25-30-beta/duanjuzhijia-tvos-1.1.25%2B30-unsigned.ipa",
+        "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.25-30-beta/duanjuzhijia-tvos-1.1.25%2B30-unsigned.ipa"
+      ],
+      "size": 19984744,
+      "sha256": "bbdcae69714ff412b0b91bf29c9f7652bea750a14023179147def9f4407692a9",
+      "notes": "- 修复：Apple TV 切换单实例原生 AVQueuePlayer 并打通整集缓存/已下载剧集入队，彻底消除自动连播下一集黑屏闪一下的问题\n- 新增：Apple TV 后台自动预下载后续 3 集（+1/+2/+3），切集与连播更流畅；片尾剩不足 25 秒若尚未缓存完自动切在线流兜底入队\n- 优化：本地文件与 127.0.0.1 本地代理自动关闭防卡顿等待，未加密本地文件直出 file://，进一步压缩切集声音停顿\n- 同步：红果三域名轮换与 V5 / ByteVC2 播放线路优化\n> 测试版，正式版用户不受影响\n"
+    }
+  ]
+}
