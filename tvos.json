@@ -1,8 +1,8 @@
 {
   "version": "1.1.26+31",
   "name": "duanjuzhijia-tvos-1.1.26+31-unsigned.ipa",
-  "size": 15969936,
-  "sha256": "ff07ca7900672b595b6cfaf11fe825ffd1f44fede6927bed7660ea68092c0794",
+  "size": 19986753,
+  "sha256": "03cb1717d8ed113c3dc803ea05aa847e255c068bf1882b26e7fad1c103947a5b",
   "gzip": false,
   "urls": [
     "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa",
@@ -10,5 +10,5 @@
     "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa",
     "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa"
   ],
-  "notes": "新增首页继续观看模式同步；修复红果账号风控连累播放取流与排行榜翻页名次问题"
+  "notes": "- 新增：设置页新增「首页继续观看」模式（追剧 / 最近观看 / 关闭），支持 WebDAV 跨端同步"
 }
