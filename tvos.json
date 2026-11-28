@@ -1,14 +1,14 @@
 {
-  "version": "1.1.24+26",
-  "name": "duanjuzhijia-tvos-1.1.24+26-unsigned.ipa",
-  "size": 19986358,
-  "sha256": "8f8f8d47b9b7522e03f7af38d69e3a77ed78b974745243d8e9bb2101ea2df025",
+  "version": "1.1.26+31",
+  "name": "duanjuzhijia-tvos-1.1.26+31-unsigned.ipa",
+  "size": 15969936,
+  "sha256": "ff07ca7900672b595b6cfaf11fe825ffd1f44fede6927bed7660ea68092c0794",
   "gzip": false,
   "urls": [
-    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.24-26/duanjuzhijia-tvos-1.1.24%2B26-unsigned.ipa",
-    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.24-26/duanjuzhijia-tvos-1.1.24%2B26-unsigned.ipa",
-    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.24-26/duanjuzhijia-tvos-1.1.24%2B26-unsigned.ipa",
-    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.24-26/duanjuzhijia-tvos-1.1.24%2B26-unsigned.ipa"
+    "https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa",
+    "https://ghproxy.net/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa",
+    "https://gh-proxy.com/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa",
+    "https://ghfast.top/https://github.com/jackherex/duanjuzhijia-down-tvos/releases/download/tvos-v1.1.26-31/duanjuzhijia-tvos-1.1.26%2B31-unsigned.ipa"
   ],
-  "notes": "修复下载页进入播放一直缓冲的问题，并全面重设 Apple TV 下载管理页面视觉"
+  "notes": "新增首页继续观看模式同步；修复红果账号风控连累播放取流与排行榜翻页名次问题"
 }
